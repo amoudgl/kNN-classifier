@@ -1,5 +1,12 @@
 # kNN-Classifier
-kNN classifier built in MATLAB. Classifier is build and tested on five datasets with various classes and features.
+kNN classifier built in MATLAB. 
+It is tested on five datasets: 
+- Iris
+- Wine
+- Banknote Authentication
+- Ionosphere
+- Magic Gamma Telescope
+
 Datasets are taken from [UCI Machine Learning Repository][l1]. 
 
 ### Structure of repository
